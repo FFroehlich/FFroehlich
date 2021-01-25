@@ -1,6 +1,6 @@
 # About Me
 
-I am a HFSP Postdoctoral Fellow in Peter Sorger's group in the Laboratory of Systems Pharmacology at Harvard Medical School. I am developing methods to construct, calibrate and understand large kinetic models with hundreds to thousands of state variables and parameters. I apply these methods to study adaptive resistance in melanoma where I integrate structural, molecular and omics data to build detailed mechanistic models for precision medicine applications.
+I am a [HFSP](https://www.hfsp.org) Postdoctoral Fellow in [Peter Sorger's group](https://sorger.med.harvard.edu) in the [Laboratory of Systems Pharmacology](https://hits.harvard.edu/the-program/laboratory-of-systems-pharmacology/about/) at [Harvard Medical School](https://hms.harvard.edu). I am developing methods to construct, calibrate and understand large kinetic models with hundreds to thousands of state variables and parameters. I apply these methods to study adaptive resistance in melanoma, where I integrate structural, molecular and omics data to build detailed mechanistic models for precision medicine applications.
 
 For more, you can follow me on [twitter](https://twitter.com/fabfrohlich) or read my [papers](https://scholar.google.com/citations?user=pGYETGQAAAAJ&hl=en).
 
