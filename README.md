@@ -11,5 +11,5 @@ Over the years, I have developed and contributed to several toolboxes that permi
 - Formulate your model using [pysb](https://github.com/pysb/pysb)
 - Define your estimation problem using [PEtab](https://github.com/PEtab-dev/PEtab)
 - Solve your estimation problem using [pyPESTO](https://github.com/ICB-DCM/pyPESTO)
-  - To solve the optimization problem, use an efficient optimizer such as [fides](https://github.com/fides-dev/fides)
-  - To efficiently simulate and compute sensitivies for the model use [AMICI](https://github.com/AMICI-dev/AMICI)
+- Use the efficient optimizers implemented in [fides](https://github.com/fides-dev/fides)
+- Use the scalable simulate and sensitivity computation methods implemented in [AMICI](https://github.com/AMICI-dev/AMICI)
